@@ -4,3 +4,5 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igor-bozato-918784232/)
 
 I'm a Ruby developer with over 10 years of exerperience.
+
+Schedule a meeting with me and let's talk about how can I help your business on [Calendly](https://calendly.com/igorbozato).
