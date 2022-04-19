@@ -5,4 +5,5 @@
 
 I'm a Ruby developer with over 10 years of exerperience.
 
-Schedule a meeting with me and let's talk about how can I help your business on [Calendly](https://calendly.com/igorbozato).
+I'm currently availble for freenlancing work on [Upwork](https://www.upwork.com/freelancers/~01067381adf4ab3ccf).  
+Let's schedule a meeting and talk about how can I help your business on [Calendly](https://calendly.com/igorbozato). 
